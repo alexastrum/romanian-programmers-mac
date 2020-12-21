@@ -12,7 +12,7 @@ Pe scurt:
 
 Extensie non-standard:
 
-* `ALT + g` &rarr; £ - disponibilă în ramura [non-standard/uk](https://github.com/SaltwaterC/romanian-programmers-mac/tree/non-standard/uk)
+* `ALT + g` &rarr; £ - disponibilă în ramura [non-standard/uk](https://github.com/alexastrum/romanian-programmers-mac/tree/non-standard/uk)
 
 Imaginea de ansamblu a aranjamentului:
 
@@ -31,7 +31,7 @@ Implementarea este completă, însă prezintă următoarea deficiență: ambele 
 ## Instalare / Actualizare
 
 ```bash
-curl --silent --location --max-redirs 10 https://raw.githubusercontent.com/SaltwaterC/romanian-programmers-mac/master/install.sh --output "/tmp/rpm-install.sh" && bash "/tmp/rpm-install.sh" && rm -f "/tmp/rpm-install.sh"
+curl --silent --location --max-redirs 10 https://raw.githubusercontent.com/alexastrum/romanian-programmers-mac/master/install.sh --output "/tmp/rpm-install.sh" && bash "/tmp/rpm-install.sh" && rm -f "/tmp/rpm-install.sh"
 ```
 
 **Atenție!**
